@@ -83,7 +83,7 @@ export default function SignInForm() {
         transition={{ duration: 0.7, ease: 'easeOut' }}
       >
         <div className="text-center">
-          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight text-white mb-2 sm:mb-4">Welcome Back to True Feedback</h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight text-white mb-2 sm:mb-4">Welcome Back to Maskd</h1>
           <p className="mb-2 sm:mb-4 text-gray-300 text-sm sm:text-base">Sign in to continue your secret conversations</p>
         </div>
         <Form {...form}>
